@@ -1,4 +1,4 @@
-##  gcp-scc-webscan-terraform
+##  terraform-google-websecurityscanner
 
 This is a module for interacting with the Google Cloud [Web Security Scanner](https://cloud.google.com/security-command-center/docs/concepts-web-security-scanner-overview)
 
